@@ -10,7 +10,7 @@ Abaixo está uma captura de tela da página principal (desktop):
 
 ![Prévia da Página](https://github.com/wfelix11/pepsi_Landing_Page/blob/main/public/preview.png?raw=true)
 
-Para visualizar a página ao vivo, acesse: [Link para Deploy, se disponível] (adicione se houver um deploy, como Vercel ou Netlify).
+Para visualizar a página ao vivo, acesse: [Pepsi Landing page] (https://pepsi-landing-page-coral.vercel.app/).
 
 ## Tecnologias Utilizadas
 - **Next.js 15**: Framework React para SSR e SSG, usado para criar a estrutura da aplicação.
