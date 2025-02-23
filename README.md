@@ -64,7 +64,27 @@ Estrutura do Projeto
 O projeto está organizado da seguinte maneira:
 
 ```text
-pepsi\_Landing\_Page/├── src/│ ├── app/│ │ ├── globals.css│ │ ├── layout.tsx│ │ └── page.tsx│ └── components/│ ├── Cabecalho.tsx│ └── Corpo.tsx├── public/│ ├── logo.png│ ├── pepsi001.png│ ├── pepsi002.png│ ├── pepsi003.png│ ├── facebook.png│ ├── twitter.png│ └── instagram.png├── .gitignore├── package.json├── README.md└── tailwind.config.js
+pepsi_Landing_Page/
+├── src/
+│   ├── app/
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   └── components/
+│       ├── Cabecalho.tsx
+│       └── Corpo.tsx
+├── public/
+│   ├── logo.png
+│   ├── pepsi001.png
+│   ├── pepsi002.png
+│   ├── pepsi003.png
+│   ├── facebook.png
+│   ├── twitter.png
+│   └── instagram.png
+├── .gitignore
+├── package.json
+├── README.md
+└── tailwind.config.js
 ```
 
 Funcionalidades
