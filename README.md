@@ -150,7 +150,21 @@ Autor
     *   GitHub: [@wfelix11](https://github.com/wfelix11)
         
     
-    *   LinkedIn: [Wesley Felix](https://www.linkedin.com/in/wesley-felix/)
+    *   LinkedIn: [Wesley Felix](https://www.linkedin.com/in/wey-felix/)
+
+Creditos para:
+-----
+
+*   **Online Tutorials**
+    
+    *   Youtube: [Creative Landing Page Design using Html CSS & Javascript | Website Design Tutorial](https://www.youtube.com/watch?v=s_z5laE4KTw)
+    *   Patreon :   / [onlinetutorials](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUY1cVo4aGxIOElVTnZMS1pPaE9OdnE5UzRCd3xBQ3Jtc0tuWnl4MXVBcUpWcDdXWlJfQjU2aHl4V0hSU3NMWERsQm1YVnB5b3UzZkQwSDBzUWlVdU92M0VndDhVMDQ3cHVwbFh5UGlibWlZMkxiZ2EyS3ZKdVJIbU1aYTVfZkV5RW5NT1VOLTk5aURXa2l1YUtoQQ&q=https%3A%2F%2Fwww.patreon.com%2Fonlinetutorials&v=s_z5laE4KTw)
+    *   Facebook Page :   / [onlinetutorialsyt](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblM0c1VXMmZSNzZhT2c0LXlCRW9fWjJfcjAxQXxBQ3Jtc0ttOFp0cklVLV9CS0JobUpsbndNSWJJTFRvOFR1NlJaNXdtTGozd3Njdkd4bVhmcG9jdHdlTXBQRTg4SVVLTjhRSG15bi0tRWdxN1Q2NzVZanNyTjBicWRYckxQTVphbk5YT3VEWlJoczRfZkxlYnVJZw&q=https%3A%2F%2Fwww.facebook.com%2FonlinetutorialsYT&v=s_z5laE4KTw)
+    *   Instagram :   / [onlinetutorials_youtube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUN1MHJNMmhINTVxd3NpcnFmNUJFZGpUS185d3xBQ3Jtc0ttS0t1ZWZfMGRwbkpVMHBIZ2dEWk1fN3FHVVNtNjVuOTROV1Q3cmoxWno1cUJDWnU2bGtXRllqVEtoOEJLbUVXaDFCNy0tbVBLaW16NnEtajVvMzZSTktRRHdHSjQtQVZDTXllX2NHVEtkcnQ3dnNuaw&q=https%3A%2F%2Fwww.instagram.com%2Fonlinetutorials_youtube&v=s_z5laE4KTw)
+    *   Twitter :   / [onlinetutoria16](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUN1MHJNMmhINTVxd3NpcnFmNUJFZGpUS185d3xBQ3Jtc0ttS0t1ZWZfMGRwbkpVMHBIZ2dEWk1fN3FHVVNtNjVuOTROV1Q3cmoxWno1cUJDWnU2bGtXRllqVEtoOEJLbUVXaDFCNy0tbVBLaW16NnEtajVvMzZSTktRRHdHSjQtQVZDTXllX2NHVEtkcnQ3dnNuaw&q=https%3A%2F%2Fwww.instagram.com%2Fonlinetutorials_youtube&v=s_z5laE4KTw)
+    *   Website : [http://www.onlinetutorialsweb.com](http://www.onlinetutorialsweb.com)
+
+        
         
     
 
