@@ -13,7 +13,7 @@ export default function Corpo({ mudarCor, mudaLata, lataAtual }: CorpoProps) {
       <div className="flex flex-col md:flex-row items-center justify-between gap-4 relative z-10">
         <div className="flex flex-1 flex-col gap-4  max-w-med pr-15 text-white px-4 md:px-0 md:max-w-2xl">
           <div className="font-black flex flex-col uppercase">
-            <h2 className="text-4xl md:text-6xl">That's What</h2>
+            <h2 className="text-4xl md:text-6xl">That&apos;s What</h2>
             <h3 className="text-6xl md:text-9xl">I Like</h3>
           </div>
           <p className="text-sm md:text-base">
